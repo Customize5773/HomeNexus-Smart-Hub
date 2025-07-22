@@ -1,0 +1,17 @@
+# Hardware Interfaces
+RPi.GPIO
+smbus2
+Adafruit-MCP3008
+Adafruit-GPIO
+Adafruit-PureIO
+
+# Sensors
+adafruit-circuitpython-ina219
+mfrc522
+
+# System
+python-dotenv
+requests
+
+# Web Interface (if using)
+flask
