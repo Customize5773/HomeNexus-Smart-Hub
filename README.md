@@ -1,5 +1,7 @@
 # HomeNexus-Smart-Hub
 
+<img width="768" height="512" alt="HomeNexus" src="https://github.com/user-attachments/assets/55eb2d52-32fb-4e95-88b6-eea6ac95101d" />
+
 HomeNexus Smart Hub is a comprehensive, Raspberry Pi-based home automation system designed to intelligently manage and monitor your home environment. It integrates various sensors and controls to automate lighting, temperature, security, and power management, all powered by a sustainable solar energy system.
 
 ## Features
