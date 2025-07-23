@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     RPI[<b>RPi GPIO</b>] -->|BCM 5| LED1[LED 1]
     RPI -->|BCM 6| LED2[LED 2]
@@ -22,3 +23,4 @@ graph LR
     
     classDef led fill:#e6f7ff,stroke:#1890ff;
     class LED1,LED2,LED3,LED4,LED5,LED6 led;
+```
